@@ -1,0 +1,129 @@
+.imagem-logo {
+  width: 120px; /* Aumenta o tamanho da imagem */
+  height: auto;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background-color: black;
+}
+
+body{
+  background-color: black;
+}
+
+.timeline-slider--info {
+  padding: 24px;
+}
+
+.bloco-destaque {
+  display: flex;
+  align-items: center; /* Alinha o texto e a imagem verticalmente */
+  gap: 20px; /* Espaçamento entre o texto e a imagem */
+  margin-bottom: 40px;
+}
+
+.imagem-destaque {
+  width: 250px; /* Aumenta o tamanho da imagem */
+  height: auto;
+  border-radius: 8px;
+}
+
+.textoinicial {
+  color: white;
+}
+
+.texto{
+  color: white;
+  max-width: 250px;
+}
+
+.textonumero {
+  font-family: 'Times New Roman', Times, serif;
+  color: white;
+}
+
+.textoSubtitulo {
+  color: red;
+}
+
+span{
+  color: red;
+}
+
+.t2{
+  color: black;
+}
+
+.faixa {
+  width: 100%;
+  height: 60px;
+  background-color: red; /* Cor azul */
+  text-align: center;
+  line-height: 60px; /* Centraliza o texto verticalmente */
+  color: white;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.faixa2 {
+  width: 100%;
+  height: 60px;
+  background-color: white; /* Cor azul */
+  text-align: center;
+  line-height: 60px; /* Centraliza o texto verticalmente */
+  color: black;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+nav {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 10px;
+}
+
+nav a {
+  margin: 6px;
+  text-decoration: none;
+}
+
+
+.imagem-link{
+  width: 35px; /* Aumenta o tamanho da imagem */
+  height: auto;
+}
+
+header {
+    display: flex;
+    justify-content: space-between; /* Distribui espaço: um em cada canto */
+    align-items: center; /* Alinha verticalmente */
+    padding: 10px 20px;
+    background-color: black;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.contato {
+    display: flex;
+    justify-content: space-between; /* Distribui espaço: um em cada canto */
+    align-items: center; /* Alinha verticalmente */
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+}
